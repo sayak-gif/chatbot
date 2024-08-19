@@ -1,0 +1,1 @@
+ProtoAI is an innovative chatbot designed to enhance user interactions through natural language processing. With the ability to understand and respond to a wide range of inquiries, ProtoAI offers a personalized experience by leveraging advanced models like Mistral AI and FLAN-T5.

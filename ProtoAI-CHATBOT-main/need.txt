@@ -1,0 +1,5 @@
+Openai
+streamlit
+hugging face
+hugging face api token
+langchain
